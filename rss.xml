@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Unfunny]]></title>
+        <description><![CDATA[Unfunny]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 17:10:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unforgettable 50 Rose Hand-tied]]></title>
+            <description><![CDATA[<article><h1>Unforgettable 50 Rose Hand-tied</h1><p>You can't go wrong with roses on Valentine's day and this stunning bouquet from Interflora is just a few notches up on your average supermarket selection. 50 huge-headed red roses, hand-tied together, beautifully offset with palm grass.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86c23bcbd13f49b99c722764ca790fe7165e0b1b.jpg"></article>]]></description>
+            <link>http://www.ifloraimg.co.uk/kernel/imageload?table=cat_images;key1=2528480_herozoom_;key2=2528480_herozoom;key3=-100_herozoom;t=20150416103621;v=20151203050001;no_404=1</link>
+            <guid isPermaLink="false">3944566f-da48-41d5-aa58-598bab636e7a</guid>
+            <pubDate>Sun, 10 Jan 2016 17:10:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
