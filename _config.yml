@@ -1,7 +1,7 @@
-name: Unfunny
+name: Unfunny Valentine
 favicon: null
-layout_spectrum: 0.25542
-typography_spectrum: 0.29811
+layout_spectrum: 0.49248
+typography_spectrum: 0.29977
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#efd701'
     - '#ea5885'
     - '#000000'
-  brandStrength: 0.25
-  lightness: 0.6875
-  saturation: 0.25
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
