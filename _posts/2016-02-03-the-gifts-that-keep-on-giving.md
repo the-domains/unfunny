@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 5 Gift Subscription Ideas For Your Special Someone
-datePublished: '2016-02-04T10:45:06.104Z'
-dateModified: '2016-02-04T10:45:03.940Z'
+datePublished: '2016-02-04T23:05:59.578Z'
+dateModified: '2016-02-04T23:05:57.661Z'
 title: The Gifts That Keep On Giving
 author: []
 sourcePath: _posts/2016-02-03-the-gifts-that-keep-on-giving.md
@@ -29,7 +29,7 @@ _type: Article
 With a little help from your friends at Unfunny, you may well achieve superhero status for picking the perfect present this Valentine's Day. But as the days and weeks wear on, the colours on that costume may begin to fade. Letterbox subscriptions to the rescue! Give a gift that keeps on giving and your partner will be reminded of your undying love for them on an ongoing basis. Hello perennial prestige!
 
 ## 1\. Flowers Are For Life, Not Just For Valentine's Day
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd1a7045-332e-47db-bfb1-1c16b0f3b34b.jpg)
+![Bloom and Wild Flowers Subcription](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fce514b08b3f39ec78036f91a4e1659a06449c1.jpg)
 
 Flowers might not be the first product category that springs to mind 
 when thinking of gifts that would fit through your letterbox. But [Bloom and Wild][0]
@@ -45,7 +45,7 @@ your chosen one why they're so special to you.
 £20 per bouquet when ordered on an on-going subscription.
 
 ## 2\. Say It With Socks... criptions
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190106db-859b-4434-be07-13f6e3eb17b4.jpg)
+![Henry J Socks Subscription](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d1b0bc466ea2d934068c3c3d3d3e9b5d0f3c946.jpg)
 
 Socks may not scream 
 romance at the top of their little sock lungs, but everybody wears them,
@@ -59,7 +59,7 @@ starting at £5 a month. These brightly patterned beauties will liven up any
 dull old pair of standard-issue human feet.
 
 ## 3\. Give Us This Month Our Monthly Chocolates
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c64757-c6c4-4ef0-8531-62091c2c6a8b.jpg)
+![Chocolate Subscription from Cocoa Runners](https://s3-us-west-2.amazonaws.com/the-grid-img/p/142c8c0d42b9e11952e828ebc3d8bfcf954e3344.jpg)
 
 Can't go wrong with chocolate, right? But if your lover is a real 
 cacao-head, you'll have to go above and beyond a box of Quality Street 
@@ -76,7 +76,7 @@ splash out for the recurring cost, they've also put together a [special
 Valentine's collection][4]. A great one-off alternative for your special little chocoholic.
 
 ## 4\. Stacked To The Rafters
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02a4d2e8-e641-4b1f-8fab-e604614573e3.jpg)
+![Monthly magazine subscription from Stack](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b352728d783757d744147e8cbf4d1748068e47.jpg)
 
 Is your partner the creatively curious type? Into good design, long 
 reads and heavy paper stock? Can they spend hours at a time browsing the
@@ -90,7 +90,7 @@ surprise every time a new magazine drops onto the doormat.
 Books more their bag when it comes to reading matter? [Daunt Books ][6]offer hand-picked, gift-wrapped selections tailored to your partner's tastes.
 
 ## 5\. Coffee Coffee Tea Tea
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd8273f1-e825-4e37-8d78-5ab81ae0bc50.jpg)
+![Pact Coffee Subscription](https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ccce6a19e6d15b884f3f77a25aed1631288e1f.jpg)
 
 If your loved one is a caffeine connoisseur , you'd do well to treat 
 them to a [Pact ][7]subscription. They'll select world-class beans, hand 
