@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: iOS app with romantic emoji keyboard coincides with capsule collection of candles and fragrances designed by Olympia Le Tan.
-datePublished: '2016-02-04T15:09:49.428Z'
-dateModified: '2016-02-04T15:09:39.999Z'
+datePublished: '2016-02-07T18:56:08.627Z'
+dateModified: '2016-02-07T18:52:42.130Z'
 title: Diptyque Releases Romantic Emojis For Valentines Day
 author: []
+sourcePath: _posts/2016-02-04-diptyque-releases-romantic-emojis-for-valentines-day.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-diptyque-releases-romantic-emojis-for-valentines-day.md
-published: true
 url: diptyque-releases-romantic-emojis-for-valentines-day/index.html
 _type: Article
 
 ---
 # Diptyque Releases Romantic Emojis For Valentines Day
-![Whimsical romantic emoji stickers from Diptyque and Olympia Le Tan](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96c907d-b7e9-4a96-9c71-983c9875c3b2.png)
+![Whimsical romantic emoji stickers from Diptyque and Olympia Le Tan](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f858835b1b5f33bc91c82b4fb9f7ce3feb34c44d.png)
 
 Luxury Parisian perfumiers Dyptique have released a [romantic keyboard for iOS][0] in time for this year's Valentine's Day. If your partner digs the charming pencil-sketch illustration style found in [Parisian Chic][1] or at [My Little Paris][2], they'll love to receive a few of these cutesy hand-drawn hearts and roses in their Whatsapp window. ![Solid RosaViola perfume from Diptyque](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3659fc6f-68d7-4aa0-bad4-3888bfe1903b.jpg)
 
