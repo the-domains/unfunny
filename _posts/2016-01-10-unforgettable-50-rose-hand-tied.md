@@ -7,22 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A classic bouquet that's sure to be a hit with any true romantic on Valentine's day"
-datePublished: '2016-01-10T17:10:38.569Z'
-dateModified: '2016-01-10T17:10:17.809Z'
+datePublished: '2016-02-07T18:56:20.600Z'
+dateModified: '2016-01-10T17:22:47.223Z'
 author: []
 title: Unforgettable 50 Rose Hand-tied
+sourcePath: _posts/2016-01-10-unforgettable-50-rose-hand-tied.md
+published: true
 authors: []
 publisher:
   name: ifloraimg.co.uk
   domain: www.ifloraimg.co.uk
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-unforgettable-50-rose-hand-tied.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
+Roses are red.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6efeaf8a25a831c1c65ecc77e27ade229759e50.jpg)
 
 You can't go wrong with roses on Valentine's day and this stunning bouquet from Interflora is just a few notches up on your average supermarket selection. 50 huge-headed red roses, hand-tied together, beautifully offset with palm grass.
